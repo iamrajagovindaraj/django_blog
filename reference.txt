@@ -2,3 +2,7 @@ Templates:
 https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
 thanks to Corey :)
 https://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog/snippets
+
+Admin page:
+super user: rajag
+pass: admin@9978
